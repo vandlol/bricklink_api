@@ -25,7 +25,7 @@ setup(
   version = metadata["version"],
   description = "BrickLink API",
   long_description = readme,
-  url = "https://github.com/BrickBytes/bricklink_api",
+  url = "https://github.com/vandlol/bricklink_api",
   author = "Szieberth Ádám",
   author_email = "sziebadam@gmail.com",
   license = "MIT",

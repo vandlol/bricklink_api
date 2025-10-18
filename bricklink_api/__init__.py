@@ -1,4 +1,5 @@
-__version__ = "0.0.1 alpha"
+# PEP440-compliant version string (alpha release)
+__version__ = "0.0.1a0"
 
 from . import order
 from . import user_inventory
